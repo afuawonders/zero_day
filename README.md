@@ -1,1 +1,1 @@
-Vagrant and Virtual Machines
+Afua is learning about Vagrant and Virtual Machines. 
